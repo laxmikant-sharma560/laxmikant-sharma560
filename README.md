@@ -110,13 +110,4 @@ I enjoy turning ideas into real-world projects and solving problems with code �
 </p>
 
 ---
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="[https://visitcount.itsvg.in/api?id=laxmikant-sharma560&icon=5&color=6](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)"/>
-</p>
-
----
-
 ⭐️ From **Laxmikant Sharma**
