@@ -82,22 +82,7 @@ I enjoy turning ideas into real-world projects and solving problems with code �
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laxmikant-sharma560&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmikant-sharma560&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikant-sharma560&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=laxmikant-sharma560&theme=tokyonight&no-frame=true&margin-w=5"/>
 </p>
 
 ---
