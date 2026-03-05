@@ -82,7 +82,7 @@ I enjoy turning ideas into real-world projects and solving problems with code ğŸ
 # ğŸ“Š GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=laxmikant-sharma560&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=laxmikant-sharma560&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -90,15 +90,14 @@ I enjoy turning ideas into real-world projects and solving problems with code ğŸ
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikant-sharma560&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikant-sharma560&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # ğŸ† GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=laxmikant-sharma560&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=laxmikant-sharma560&theme=tokyonight&no-frame=true&margin-w=5"/>
 </p>
 
 ---
